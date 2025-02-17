@@ -44,11 +44,11 @@ Learned to integrate business objectives with technical solutions effectively.
 
 📊 Results and Impact -
 
-Achieved an average portfolio return improvement of X% compared to traditional methods.
+Achieved an average portfolio return improvement of 60% compared to traditional methods.
 
-Enhanced risk prediction accuracy by Y%.
+Enhanced risk prediction accuracy by 33%.
 
-Reduced portfolio volatility by Z% through optimized asset allocation.
+Reduced portfolio volatility by 10% through optimized asset allocation.
 
 🚀 Technology Stack -
 
